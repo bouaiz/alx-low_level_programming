@@ -1,9 +1,11 @@
 #include <stdio.h>
-
-/*
- * main entry: exist
- * return always 0 = done
-*/
+/**
+ * main - Entry point
+ *
+ * Description: Prints "Programming is like building a multilingual puzzle"
+ * 		followed by new line
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
